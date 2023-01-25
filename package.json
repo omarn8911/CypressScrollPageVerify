@@ -18,5 +18,8 @@
   "homepage": "https://github.com/omarn8911/CypressScrollPageVerify#readme",
   "devDependencies": {
     "cypress": "^12.3.0"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.6"
   }
 }
